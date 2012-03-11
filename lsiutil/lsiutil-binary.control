@@ -1,0 +1,24 @@
+Package: lsiutil-binary
+Version: 1.62-1
+Date: Thu, 08 Mar 2012 11:45:00 +0000
+Architecture: amd64
+Maintainer: Krzysztof Wilczynski <krzysztof.wilczynski@linux.com>
+Uploaders: Krzysztof Wilczynski <krzysztof.wilczynski@linux.com>
+Standards-Version: 3.9.1
+Section: admin
+Priority: optional
+Essential: no
+Urgency: low
+Depends: libc6 (>= 2.4)
+Installed-Size: 894341
+Recommends: mpt-status
+Provides: lsiutil-binary
+Homepage: http://www.lsi.com/
+Description: LSI Corporation LSIUtil configuration utility.
+  The LSI Corporation LSIUtil is a powerful configuration utility that
+  you can use with all LSI Logic Fibre Channel, SAS, and SCSI Host Board
+  Adapters (HBAs).  LSIUtil enables you to perform tasks such as updating
+  board firmware, scanning for connected devices, viewing configuration
+  page information, running diagnostic tests, and displaying current system
+  events and statistics.  You can run LSIUtil in text-based, menu-driven
+  mode or in full-featured command line mode.

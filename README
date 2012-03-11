@@ -1,0 +1,3 @@
+This project contains relevant files that are needed to build Debian packages
+for the LSI Corporation LSIUtil configuration utility with the help of Effing
+Package Management (FPM) project and utilities.

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+  configure)
+    ln -s -f /usr/sbin/lsiutil /usr/sbin/lsi_cli 1> /dev/null 2>&1
+  ;;
+esac
+
+#DEBHELPER#

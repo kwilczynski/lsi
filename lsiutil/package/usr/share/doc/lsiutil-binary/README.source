@@ -1,0 +1,28 @@
+lsiutil-binary
+--------------
+
+This packages contains the LSI Corporation LSIUtil configuration utility:
+
+- LSIUtil binary:
+
+  File:   LSIUtil_1.62.zip
+  MD5:    eb206acd19116a2251f36997cf628546
+  SHA1:   aebfff9afe4292bb31b90a4d3b21850ee553fb2b
+  SHA256: f4b0aa56b30cd6bad0834097f5297bafaa72ed540b5e103cd5cec153b49eda68
+  URL:    http://www.lsi.com/
+
+- LSIUtil manual:
+
+  File:   LSIUtil_UG.zip
+  MD5:    b24a7d21e1175379e5023ae3a1770a52
+  SHA1:   ba8546ee40213f27d299c88e1716d4dc769242fd
+  SHA256: b2a3e21c0b311d80a5217ac22362a9543e1bf1bd8b01ca1c885e5625ba141018
+  URL:    http://www.lsi.com/
+
+- LSIUtil README file:
+
+  File:   LsiUtil_ReadMe.txt
+  MD5:    a5331b717e7930dcfc7b7243fa743105
+  SHA1:   216e6cda95734b542526e641098ac3b1d467430c
+  SHA256: 409e02d6f69ab9335283d8dd5c0e330e9267eef1331b722963f1fce564ef7bf2
+  URL:    http://www.lsi.com/

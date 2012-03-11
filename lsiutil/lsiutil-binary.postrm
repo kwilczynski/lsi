@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+  purge)
+    rm -r -f /usr/sbin/lsi_cli \
+             /usr/share/doc/lsiutil-binary 1> /dev/null 2>&1
+  ;;
+esac
+
+#DEBHELPER#

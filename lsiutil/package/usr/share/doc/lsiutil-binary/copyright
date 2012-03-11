@@ -1,0 +1,38 @@
+This package was debianized by Krzysztof Wilczynski <krzysztof.wilczynski@linux.com> on
+Thu, 08 Mar 2012 11:45:00 +0000.
+
+It was downloaded from http://www.lsi.com/.
+
+Upstream Author:
+
+	LSI Corporation
+
+Copyright:
+
+	LSI Corporation
+
+License:
+
+	Unspecified.  Probably under a proprietary license but sources are
+	available on request.
+
+	Copyright (C) 2009-2012 LSI Corporation.
+	All rights reserved.
+
+	LSI Corporation
+	1621 Barber Lane
+	Milpitas, CA 95035
+	United States of America
+
+	This license applies to the GNU C library (glibc) which is used by the
+	statically linked version of Areca SATA and SAS RAID Storage Manager,
+	and the Command Line Interface (CLI) version.  The static version is
+	recommended, as use of that executable will guarantee that Areca SATA
+	and SAS RAID Storage Manager is compatible and has been tested with the
+	C library function calls.  No changes were made to the GNU C library.
+
+	For more information on glibc or the GNU project, see: http://www.gnu.org.
+
+On Debian systems, the complete text of the GNU General Public License can be
+found in /usr/share/common-licenses/GPL file, and the GNU Lesser General Public
+License in /usr/share/common-licenses/LGPL.
