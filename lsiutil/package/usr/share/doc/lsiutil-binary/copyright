@@ -25,13 +25,10 @@ License:
 	United States of America
 
 	This license applies to the GNU C library (glibc) which is used by the
-	statically linked version of Areca SATA and SAS RAID Storage Manager,
-	and the Command Line Interface (CLI) version.  The static version is
-	recommended, as use of that executable will guarantee that Areca SATA
-	and SAS RAID Storage Manager is compatible and has been tested with the
-	C library function calls.  No changes were made to the GNU C library.
+	dynamically linked version of LSIUtil configuration utility.  No changes
+	were made to the GNU C library.
 
-	For more information on glibc or the GNU project, see: http://www.gnu.org.
+	For more information on glibc or the GNU project, see: http://www.gnu.org/.
 
 On Debian systems, the complete text of the GNU General Public License can be
 found in /usr/share/common-licenses/GPL file, and the GNU Lesser General Public
