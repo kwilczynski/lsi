@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+  configure)
+    ln -s -f /opt/LSI/MegaCli/lib/libsysfs.so.2.0.2 \
+             /opt/LSI/MegaCli/lib/libsysfs.so.2.0 1> /dev/null 2>&1
+
+    ln -s -f /opt/LSI/MegaCli/lib/libsysfs.so.2.0.2 \
+             /opt/LSI/MegaCli/lib/libsysfs.so.2 1> /dev/null 2>&1
+
+    ln -s -f /opt/LSI/MegaCli/MegaCli /usr/sbin/megacli 1> /dev/null 2>&1
+    ln -s -f /opt/LSI/MegaCli/MegaCli /usr/sbin/MegaCli 1> /dev/null 2>&1
+    ln -s -f /opt/LSI/MegaCli/MegaCli /usr/sbin/mega_cli 1> /dev/null 2>&1
+  ;;
+esac
+
+#DEBHELPER#

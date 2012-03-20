@@ -1,0 +1,23 @@
+Package: megacli-binary
+Version: 8.02.21-1
+Date: Thu, 20 Mar 2012 11:45:00 +0000
+Architecture: amd64
+Maintainer: Krzysztof Wilczynski <krzysztof.wilczynski@linux.com>
+Uploaders: Krzysztof Wilczynski <krzysztof.wilczynski@linux.com>
+Standards-Version: 3.9.1
+Section: admin
+Priority: optional
+Essential: no
+Urgency: low
+Depends: libc6 (>= 2.4), libstdc++6 (>= 4.4.0)
+Installed-Size: 7567400
+Provides: megacli-binary
+Homepage: http://www.lsi.com/
+Description: LSI Corporation MegaCLI SAS RAID Management Tool.
+  The MegaRAID Command Tool (CT) is a CLI application for SAS.  You can use
+  this utility to configure, monitor, and maintain MegaRAID SAS RAID storage
+  adapters and the devices connected to them.
+  .
+  The MegaRAID Command Tool supports only the MegaRAID controller.  It does
+  supports SAS and SATA II but does not support other types of the MegaRAID
+  controllers, such as U320, SATA I, or IDE.

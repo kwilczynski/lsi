@@ -1,0 +1,52 @@
+This package was debianized by Krzysztof Wilczynski <krzysztof.wilczynski@linux.com> on
+Thu, 20 Mar 2012 11:45:00 +0000.
+
+It was downloaded from http://www.lsi.com/.
+
+Upstream Author:
+
+	LSI Corporation
+
+Copyright:
+
+	LSI Corporation
+
+License:
+
+	Unspecified.  Probably under a proprietary license.
+
+	Copyright (C) 2009-2012 LSI Corporation.
+	All rights reserved.
+
+	LSI Corporation
+	1621 Barber Lane
+	Milpitas, CA 95035
+	United States of America
+
+	This license applies to the GNU C library (glibc) which is used by the
+	dynamically linked version of MegaCLI SAS RAID Management Tool. No changes
+	were made to the GNU C library.
+
+	For more information on glibc or the GNU project, see: http://www.gnu.org/.
+
+	Additionally, the MegaCLI SAS RAID Management Tool is dynamically linked
+	against a library (libsysfs) from the Sysfs Utilities Package licensed under
+	the GNU Lesser General Public License (LGPL) either version 2.1 of the License,
+	or any later version for which the copyright holder is the IBM Corporation
+	together with the following respective authors:
+
+		Daniel Stekloff <dsteklof@us.ibm.com>
+		Ananth Mavinakayanahalli <ananth@in.ibm.com>
+		Nitin Vashisth <vnitin@in.ibm.com>
+		Mohan Kumar <mohan@in.ibm.com>
+
+	Please note that a relevant pre-built version of libsysfs is included in this
+	package in order to ensure best possible compatibility regardless of version
+	already available on the underlying operating system.
+
+  For more information on libsysfs or the Sysfs Utilities Package project,
+  see: http://linux-diag.sourceforge.net/.
+
+On Debian systems, the complete text of the GNU General Public License can be
+found in /usr/share/common-licenses/GPL file, and the GNU Lesser General Public
+License in /usr/share/common-licenses/LGPL.

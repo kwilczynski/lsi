@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+  purge)
+    rm -r -f /opt/LSI/MegaCli/lib/libsysfs.so.2.0 \
+             /opt/LSI/MegaCli/lib/libsysfs.so.2   \
+             /usr/sbin/megacli                    \
+             /usr/sbin/MegaCli                    \
+             /usr/sbin/mega_cli                   \
+             /usr/share/doc/megacli-binary 1> /dev/null 2>&1
+  ;;
+esac
+
+#DEBHELPER#

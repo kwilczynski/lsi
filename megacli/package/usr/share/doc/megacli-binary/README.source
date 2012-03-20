@@ -1,0 +1,20 @@
+lsiutil-binary
+--------------
+
+This packages contains the MegaCLI SAS RAID Management Tool:
+
+- MegaCLI SAS RAID Management Tool binary:
+
+  File:   8.02.21_MegaCLI.zip
+  MD5:    62284ff96cb7773f0e341ee65bd32fed
+  SHA1:   13f76db5b5f41b163d8df9c7eec0ef086728ae1f
+  SHA256: 2049e1431211a96100d4b2e8f0f44791ebc4697ac59f818ba1d4b1c81c7246e6
+  URL:    http://www.lsi.com/
+
+- MegaCLI SAS RAID Management Tool manual:
+
+  File:   MegaCli_User_Guide.zip
+  MD5:    2ac50ef9ea1b040fd3db6b9c87936430
+  SHA1:   ed15f9f5ade1ee3ab5be066ec36f9c5b1c65a52b
+  SHA256: 93d14f9f6786fccf9bf32711f4b4dcc174013fdf82514c16b82ae6d84565782b
+  URL:    http://www.lsi.com/
