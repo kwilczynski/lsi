@@ -11,6 +11,14 @@ case "$1" in
              /usr/sbin/mega_cli                   \
              /usr/share/doc/megacli-binary 1> /dev/null 2>&1
   ;;
+
+  remove|upgrade|failed-upgrade|abort-install|abort-upgrade)
+  ;;
+
+  *)
+    echo "The postrm script called with unknown argument \`$1'" >&2
+    exit 1
+  ;;
 esac
 
 #DEBHELPER#
